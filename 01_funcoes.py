@@ -6,3 +6,5 @@ def calc_imc(peso, altura):
 # imc = calc_imc(p, a)
 
 # print(imc)
+
+print(calc_imc(85, 1.72))
